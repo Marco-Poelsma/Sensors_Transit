@@ -1,0 +1,26 @@
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.exe
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.deps.json
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.json
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.dev.json
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.dll
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.pdb
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csprojAssemblyReference.cache
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.CoreCompileInputs.cache
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.dll
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.pdb
+C:/Users/Professor/Desktop/Sensors Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.genruntimeconfig.cache
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.deps.json
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.json
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.runtimeconfig.dev.json
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.dll
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/bin/Debug/netcoreapp3.1/Sensors Transit.pdb
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.GeneratedMSBuildEditorConfig.editorconfig
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfoInputs.cache
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.AssemblyInfo.cs
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.csproj.CoreCompileInputs.cache
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.dll
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.pdb
+/home/meow/Documents/490-2627/Sensors_Transit/Sensors Transit/obj/Debug/netcoreapp3.1/Sensors Transit.genruntimeconfig.cache
