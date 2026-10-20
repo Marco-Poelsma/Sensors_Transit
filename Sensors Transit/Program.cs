@@ -70,10 +70,10 @@ namespace SensorsTransit
         /// </summary>
         public void RebreDadesSensors()
         {
-            for (int i = 0; i < NumSensors; i++)
+            Parallel.For(0,NumSensors, delegate (int i)
             {
                 SensorsLocal.Add(Sensors[i].EnviaDadesCentral());
-            }
+            });
         }
 
         //TASCA A FER: Cal optimitzar aquest mètode, si és possible utilitzant mètodes de programació en paral·lel, concretamen el Parallel.For
